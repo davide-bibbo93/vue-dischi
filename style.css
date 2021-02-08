@@ -35,6 +35,7 @@ select {
   padding: 5px;
   border-radius: 8px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .cds-container {
